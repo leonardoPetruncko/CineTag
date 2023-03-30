@@ -1,4 +1,4 @@
-import Inicio from "Pages/Inicio";
+import Inicio from "pages/Inicio";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 export default function AppRoutes() {

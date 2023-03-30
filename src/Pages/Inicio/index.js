@@ -1,7 +1,7 @@
-import React from "react"
+import Cabecalho from "components/Cabecalho";
 
 export default function Inicio() {
     return (
-        <h1>Page 1</h1>
+        <Cabecalho />
     )   
 }
