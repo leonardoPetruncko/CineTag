@@ -9,3 +9,12 @@
     font-size: 18px;
     color: var(--branco);
 }
+
+.rodape a {
+    transition: 1s ease-in-out;
+}
+
+.rodape a:hover {
+    color: aqua;
+    cursor: pointer;
+}
